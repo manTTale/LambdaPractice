@@ -1,10 +1,5 @@
-public class Cat implements Printable{
+public class Cat {
 
     String name;
     int age;
-
-    @Override
-    public void print() {
-        System.out.println("Meow");
-    }
 }
