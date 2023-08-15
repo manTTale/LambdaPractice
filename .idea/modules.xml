@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LambdaCodingWithJon/LambdaCodingWithJon.iml" filepath="$PROJECT_DIR$/LambdaCodingWithJon/LambdaCodingWithJon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LambdaJenkov/LambdaJenkov.iml" filepath="$PROJECT_DIR$/LambdaJenkov/LambdaJenkov.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LambdaPractice.iml" filepath="$PROJECT_DIR$/LambdaPractice.iml" />
+    </modules>
+  </component>
+</project>
